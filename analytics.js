@@ -58,6 +58,10 @@ Analytics.prototype.count = function(from, callback){
 	}
 };
 
+Analytics.prototype.history = function(callback){
+	callback(JSON.stringify(this.emailRepo));
+}
+
 //this is visible to adopters
 module.exports = function(setup){
 	return new Analytics(setup);
