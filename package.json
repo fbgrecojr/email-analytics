@@ -1,0 +1,23 @@
+{
+  "name": "email-analytics",
+  "version": "0.0.1",
+  "description": "",
+  "main": "analytics.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbgrecojr/email-analytics.git"
+  },
+  "keywords": [
+    "email",
+    "analytics"
+  ],
+  "author": "Frank B Greco Jr <fbgrecojr@me.com> (http://frankgrecojr.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbgrecojr/email-analytics/issues"
+  },
+  "homepage": "https://github.com/fbgrecojr/email-analytics#readme"
+}
