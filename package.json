@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/fbgrecojr/email-analytics/issues"
   },
-  "homepage": "https://github.com/fbgrecojr/email-analytics#readme"
+  "homepage": "https://github.com/fbgrecojr/email-analytics#readme",
+  "dependencies": {
+    "mail-notifier": "~0.2.5"
+  }
 }
